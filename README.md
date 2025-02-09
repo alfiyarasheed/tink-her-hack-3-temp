@@ -1,44 +1,49 @@
-# [Project Name] 🎯
+# Venue Ease 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: techiees
 
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Member 1: Alfiya Rasheed  - Icet
+- Member 2: Nandana Sajeevan - Icet
+- Member 3: Ashna Sajeer - Icet
 
 ### Hosted Project Link
 [mention your project hosted project link here]
 
 ### Project Description
-[2-3 lines about what your project does]
+A venue management website where users can search for the venues /event halls based on their prefferable date .then website shows  all the available venues on that particular date along with its facilities and price.also booking option is available. 
 
 ### The Problem statement
-[What ridiculous problem are you solving?]
-
+Finding and booking the perfect venue for events such as weddings, gatherings, or academic programs
+often requires significant time and effort. Traditionally, users rely on information from Google or
+word of mouth, contacting halls via phone calls or visiting in person. If a hall is unavailable on the
+desired date, users must repeat the search, leading to delays and inconvenience.
 ### The Solution
-[How are you solving it? Keep it fun!]
-
+The platform enables users to search for auditoriums or event halls within a specified location,
+offering comprehensive details such as availability status, price per hour, facilities offered, and user
+reviews. VenueEase also includes a convenient booking system, allowing users to reserve their
+preferred venue directly through the website. Its location-based functionality ensures users can
+quickly identify halls in their desired area, check availability, and make informed decisions without
+unnecessary delays.
+For administrators, VenueEase provides tools to manage bookings, including options to accept or
+reject reservations, ensuring authenticity and avoiding scheduling conflicts. Additionally, the
+platform’s advanced search capabilities and user-friendly design make it accessible to both technical
+and non-technical users.
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
-
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+- Next Js
+- Nest Js
+- Postgre Sql
+- knex Js
 
 ### Implementation
 For Software:
 # Installation
-[commands]
+git clone https://github.com/alfiyarasheed/VenueEase
 
 # Run
 [commands]
@@ -46,54 +51,18 @@ For Software:
 ### Project Documentation
 For Software:
 
-# Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+# Screenshots 
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+Screenshot1
+https://drive.google.com/drive/folders/1BiQ2DbjzCHjBY1y7w2PWhU__NCYFNgyI?usp=drive_link
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
-
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
-
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Team](Add photo of your team here)
-
-
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
-
-### Project Demo
-# Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
-
-# Additional Demos
-[Add any extra demo materials/links]
+Screenshot2
+https://drive.google.com/drive/folders/1BiQ2DbjzCHjBY1y7w2PWhU__NCYFNgyI?usp=drive_link
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- Ashna: build backend
+- Alfiya : build database
+- Nandana: build frontend
 
 ---
 Made with ❤️ at TinkerHub
